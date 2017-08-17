@@ -1,0 +1,4 @@
+ http://localhost:8080/webpack-dev-server/
+webpack result is served from /
+content is served from ./
+404s will fallback to /index.html
